@@ -1,6 +1,6 @@
 {
   "name": "spy-or",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "spy-or": "./"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sherry-li-or/spy-or/issues"
+  },
+  "homepage": "https://github.com/sherry-li-or/spy-or#readme"
 }
