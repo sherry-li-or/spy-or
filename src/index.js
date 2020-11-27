@@ -1,7 +1,7 @@
 /**
  * 監聽滾動在範圍的內容
  */
-export default function spyOr(list, setActive) {
+function spyOr(list, setActive) {
   /**
    * 監聽位置參數
    */
