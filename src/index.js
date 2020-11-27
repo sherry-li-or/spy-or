@@ -1,1 +1,1 @@
-const spyOr = require("spy");
+const spyOr = require("./spy");
