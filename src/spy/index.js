@@ -1,7 +1,7 @@
 /**
  * 監聽滾動在範圍的內容
  */
-module.exports = function spyOr(list, setActive) {
+export default function spyOr(list, setActive) {
   /**
    * 監聽位置參數
    */
@@ -25,4 +25,4 @@ module.exports = function spyOr(list, setActive) {
       observer.observe(element);
     });
   }
-};
+}
